@@ -1,7 +1,7 @@
 # An in depth review of LSTM based RNN in TensorFlow using MNIST
-In this note book we implement a single layer LSTM based Recurrent Neural Network (RNN) classifier, for MNIST database of handwritten digits.
+In __[this note book](https://github.com/meysamsadeghi/TF_mnist_LSTM/blob/master/tf_mnist_rnn.py)__ we implement a single layer LSTM based Recurrent Neural Network (RNN) classifier, for MNIST database of handwritten digits.
 
-This note book organization is as follows. If you are just interested to see the code and dont care about details, jump to IV. RNN Implementation and The Code.
+The __[note book](https://github.com/meysamsadeghi/TF_mnist_LSTM/blob/master/tf_mnist_rnn.py)__ organization is as follows. If you are just interested to see the code and dont care about details, jump to IV. RNN Implementation and The Code.
 
 1. LSTM Based RNNs with TensorFlow
 2. Basics of LSTM Based RNN

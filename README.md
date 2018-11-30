@@ -13,4 +13,4 @@ The __[note book](https://github.com/meysamsadeghi/TF_mnist_LSTM/blob/master/LST
 5. RNN Implementation and The Code
 
 
-If you are just interested to see the code and dont care about details, jump to Section IV of the notebook, or directly use __[this](https://github.com/meysamsadeghi/TF_mnist_LSTM/blob/master/LSTM_based_RNNs_with_TensorFlow_MNIST.ipynb)__. 
+If you are just interested to see the code and dont care about details, jump to Section IV of the notebook, or directly use __[this](https://github.com/meysamsadeghi/TF_mnist_LSTM/blob/master/tf_mnist_rnn.py)__. 
